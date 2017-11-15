@@ -80,11 +80,8 @@ public class CategoryTestCase {
 */	
 /*	
 	@Test
-	public void testListCategory() {
-					
-		assertEquals("Successfully fetched the list of categories from the table!",3,categoryDAO.list().size());
-		
-		
+	public void testListCategory() {					
+		assertEquals("Successfully fetched the list of categories from the table!",3,categoryDAO.list().size());		
 	}
 	
 */
